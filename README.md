@@ -2,7 +2,6 @@
 
 BidVerse is a premium, full-stack online auction platform built with the MERN stack. It enables users to list products, participate in live bidding, and win items through a competitive, transparent, and real-time auction system.
 
-![BidVerse Banner](https://images.unsplash.com/photo-1588666309990-d68f08e3d4a6?auto=format&fit=crop&q=80&w=1200)
 
 ## ✨ Key Features
 
