@@ -29,7 +29,7 @@ BidVerse is a premium, full-stack online auction platform built with the MERN st
 -   **AI:** [Google Gemini AI](https://ai.google.dev/)
 -   **Storage:** [Cloudinary](https://cloudinary.com/)
 -   **Real-time:** Socket.io
--   **Automation:** Node-cron for auction scheduling
+-   **Automation:** Node-cron for auction scheduling 
 
 ---
 
