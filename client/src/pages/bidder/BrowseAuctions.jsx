@@ -6,8 +6,6 @@ import Button from '../../components/common/Button';
 import AuctionCard from '../../components/bidder/AuctionCard';
 import Input from '../../components/common/Input';
 import Loader from '../../components/common/Loader';
-
-// Simple debounce utility for search
 const useDebounce = (val, delay) => {
   const [debouncedValue, setDebouncedValue] = useState(val);
   useEffect(() => {
